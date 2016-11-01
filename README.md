@@ -48,3 +48,4 @@ If you want to create a local HTML5 android app
 - ensuite, créer un nouveau package avec un clic-droit sur le dossier java, new
 - glisser le contenu de com.example.app puis refactor pour mettre à jour
 - mettre à jour android.manifest.
+- modifier les icones des lanceurs dans /src/main/res/drawableXXXXX
