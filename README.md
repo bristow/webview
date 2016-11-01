@@ -39,3 +39,12 @@ If you want to create a local HTML5 android app
 	```
 
 2. replace the boilerplate website in `src/main/assets/www/` with your own HTML, CSS and JavaScript files
+
+## Android Studio
+
+- faire une copie de ce dossier webview
+- importer ce dossier comme nouveau projet
+- refactor -> rename le dossier APP pour renommer le dossier avec le nom du projet
+- ensuite, créer un nouveau package avec un clic-droit sur le dossier java, new
+- glisser le contenu de com.example.app puis refactor pour mettre à jour
+- mettre à jour android.manifest.
